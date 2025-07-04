@@ -17,8 +17,8 @@ This is a simple e-commerce website built using **PHP**, **MySQL**, **HTML/CSS**
 - Code editor (VS Code recommended)
 
 folder structure
-/Mobile-Shopee
 
+/Mobile-Shopee
 │
 
 ├── account.php # User account options
