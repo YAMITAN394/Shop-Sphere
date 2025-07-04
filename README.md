@@ -18,36 +18,66 @@ This is a simple e-commerce website built using **PHP**, **MySQL**, **HTML/CSS**
 
 folder structure
 /Mobile-Shopee
+
 │
+
 ├── account.php # User account options
+
 ├── address.php # Delivery address management
+
 ├── cart.php # Cart logic
+
 ├── feedback.php # User feedback page
+
 ├── functions.php # Utility functions
+
 ├── header.php # Header include
+
 ├── index.php # Home page
+
 ├── login.php # Login page
+
 ├── logout.php # Logout logic
+
 ├── orders.php # Order summary page
+
 ├── config/ # (Optional) config files like db
+
 ├── assets/ # Images, CSS, JS, fonts
+
 ├── database/
+
 │ └── shopee.sql # SQL dump to create the database
+
 ├── Template/ # Reusable template components
+
 │ ├── _products.php
+
 │ ├── _new-phones.php
+
 │ ├── _cart-template.php
+
 │ └── etc...
 └── JS/
+
 └── index.js # JavaScript for interactions
+
+Features
+🔐 User login/logout
+🛒 Add to cart and checkout
+📦 Product pages and filters
+🧾 Orders & Address management
+💳 Payment options display
+⭐ Feedback and rating
+
 
 🖥️ How to Run the Project Locally
 
 Follow these steps to set up and run the project on your local machine:
 
-1. Clone the Repository
 
 ```bash
+1. Clone the Repository
 git clone https://github.com/your-username/ecommerce-site.git
 
 2.Move the Project to XAMPP Directory
@@ -69,10 +99,3 @@ Visit in browser:
 
 http://localhost/mobile-shopee
 
-Features
-🔐 User login/logout
-🛒 Add to cart and checkout
-📦 Product pages and filters
-🧾 Orders & Address management
-💳 Payment options display
-⭐ Feedback and rating
